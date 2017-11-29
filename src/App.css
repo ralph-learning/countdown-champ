@@ -1,0 +1,31 @@
+.App {
+  text-align: center;
+  font-size: 35px;
+  margin-top: 10%;
+  font-family: Helvetica;
+}
+
+.App-title {
+  font-size: 50px;
+}
+
+.Clock-days,
+.Clock-hours,
+.Clock-minutes,
+.Clock-seconds {
+  display: inline;
+  margin: 10px;
+  font-size: 24px;
+}
+
+.Timer {
+  margin-top: 64px;
+}
+
+.Timer-title {
+  font-size: 50px;
+}
+
+.Timer-label {
+  font-size: 24px;
+}
